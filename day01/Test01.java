@@ -4,7 +4,7 @@ public class Test01 {
 
 	public static void main(String[] args) {
 				System.out.println("test1");
-
+				System.out.println("test12312312");
 		System.out.println("善学如春起之苗");
 		System.out.println("不见其增，日渐其长");
 		System.out.println("假学如磨刀之石");
